@@ -1,0 +1,13 @@
+.movie__block {
+    width: 400px
+}
+
+.movie__block-buttons {
+    display: flex;
+    justify-content: space-between
+}
+
+.movie__block-like {
+    background: blue;
+    color: #fff;
+}
